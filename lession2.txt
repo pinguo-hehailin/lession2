@@ -6,7 +6,6 @@
 zhangsan +1 at 19:25
 wangwu +1 at 19:26
 zhangsan +2 at 19:27
-fenghaiting +1 at 20:02
 在解决冲突的时候请务必保持时间有序，防止某些人在解决冲突的时候把代码弄没了。
 不符合标准的PR将会被CLOSE！
 liaofeng +1 at 19:36
@@ -16,3 +15,4 @@ baiziying +1 at 19:51
 liuzhaohui +2 at 19:55
 liuhongwei +2 at 19:57
 baiziying +2 at 19:57
+fenghaiting +1 at 20:09
